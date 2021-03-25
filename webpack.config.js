@@ -15,7 +15,7 @@ module.exports = {
   name: 'scss',
   entry: {
     file1: path.resolve('./test1.scss'),
-    file1: path.resolve('./test2.scss')
+    file2: path.resolve('./test2.scss')
   },
   module: {
     rules: [
